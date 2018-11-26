@@ -1,7 +1,0 @@
-theme: minima
-title: Lampe
-description: Web Development
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
